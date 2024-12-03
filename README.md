@@ -1,3 +1,4 @@
+
 Financial Analysis Using Power BI
 The Financial Analysis Using Power BI project enables businesses to gain insightful financial analysis through interactive dashboards, utilizing data from multiple dimensions like categories, geography, products, sales reps, and subcategories. This project uses Power BI to visualize and analyze sales data from 2014 to 2017, empowering decision-makers with actionable insights into sales performance, profitability, and growth trends.
 
